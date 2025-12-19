@@ -1,0 +1,5 @@
+Knight Lancelot 100 200
+Druid Merlin 150 250
+Elf Legolas 50 75
+Knight Galahad 200 300
+Druid Gandalf 400 450

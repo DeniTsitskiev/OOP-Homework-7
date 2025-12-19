@@ -1,0 +1,12 @@
+build/
+.vscode/
+.git/
+.gitignore
+materials.md
+README.md
+DOCKER.md
+2025_ЛР_ООП_6.txt
+.devcontainer/
+*.md
+*.docx
+*.sh
