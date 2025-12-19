@@ -9,7 +9,7 @@
 
 ## Быстрый старт
 
-### Запуск через Docker (рекомендуется)
+### Запуск через Docker
 ```bash
 docker build -t lab7-game .
 docker run --rm -t lab7-game
